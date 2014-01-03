@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+<!--<script src="./socket.io/socket.io.js"></script>//-->
+<style>
+	.tile {float: left; width: 50px; height: 50px; margin: 0px; padding: 0px;}
+	.t1 {background: red;}
+	.t2 {background: blue;}
+	.t3 {background: green;}
+	.t4 {background: skyblue;}
+	.t5 {background: gray;}
+	.t6 {background: yellow;}
+	.t7 {background: gold;}
+	.t8 {background: silver;}
+	.t9 {background: blueViolet;}
+	.t10 {background: darkKhaki;}
+	.t11 {background: pink;}
+	.t12 {background: black;}
+</style>
+<script>
+	$(document).ready(function(){
+		var match = <%- JSON.stringify(match) %>;
+		var name = "<%= name %>";
+		console.log("=====================");
+		console.log(typeof match);
+		console.log(match);
+		console.log(name);
+		//var socket = io.connect();
+		
+		//socket.on('count', function(data){
+		//	changeCount(data.index, data.count);
+		//});
+setTile();
+		function setTile() {
+			if(typeof match == 'object') {
+				for(var i in match) {
+					if(typeof match[i] == 'object') {
+						var a = $('<div style="width: 250px; height: 50px; margin: 0px; padding: 0px;"><div>');
+						for(var j in match[i]) {
+							var b = $('<div"></div>').addClass('tile').addClass('t' + match[i][j]);
+							/*
+							switch(match[i][j]) {
+								case 1:
+								var b = $('<div"></div>').addClass('tile').addClass('r');
+								break;
+								default:
+								var b = $('<div"></div>').addClass('tile').addClass('b');
+								break;
+							}
+							*/
+							b.appendTo(a);
+							console.log(a);
+							console.log(b);
+
+						}
+						a.appendTo($('#content_tile'));
+					}
+				}
+			}
+			$('#content_tile').html();
+		}
+
+	});
+</script>
+</head>
+<body>
+<div id="content_tile"></div>
+</body>
+</html>

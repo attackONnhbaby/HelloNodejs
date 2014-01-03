@@ -1,0 +1,135 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="./socket.io/socket.io.js"></script>
+<style>
+	.tile {float: left; width: 50px; height: 50px; margin: 0px; padding: 0px;}
+	.t1 {background: red;}
+	.t2 {background: blue;}
+	.t3 {background: green;}
+	.t4 {background: skyblue;}
+	.t5 {background: gray;}
+	.t6 {background: yellow;}
+	.t7 {background: gold;}
+	.t8 {background: silver;}
+	.t9 {background: blueViolet;}
+	.t10 {background: darkKhaki;}
+	.t11 {background: pink;}
+	.t12 {background: black;}
+</style>
+<script>
+	$(document).ready(function(){
+		var name;
+		var socket;
+		var room = {
+			wait: {
+				set: function() {
+					if(name) {
+						socket.emit('create_room', name);
+						location = '/game/' + name;
+					}
+				},
+				get: function() {
+					// socket.emit('create_room');
+					$.getJSON('/getroom', {}, function(res) {
+						console.log(res);
+						if(typeof res == 'object') {
+							$.each(res, function (index, item) {
+								$('<button></button>').attr({
+                        			'data-room': item
+                    			}).text('Room Number: ' + item).button().appendTo('#pannel_open_room');
+							});
+						}
+					});
+				}
+			},
+			play: {
+				set: function() {
+
+				},
+				get: function() {
+					
+				}
+			}
+		};
+		// setSocket();
+		$('#btnName').click(function() {
+			name = $('#name').val();
+			if(!name) {
+				alert("이름 입력하세요!!");
+				return;
+			}
+			$.getJSON('/chkName', {name: name}, function(res) {
+				if(res.result == 1) {
+					$('#login').empty().html('<h3>Welcome ' + name + '</h3>');
+					pannelShow();
+				} else {
+					alert('Your name is fail to create');
+				}
+			});
+			//$('#pannel').show();
+		});
+
+		$('#btnCreateRoom').click(function() {
+			room.wait.set();
+		});
+
+		function setSocket() {
+			//소켓 연결
+			socket = io.connect();
+
+			//내 정보 전달
+			// socket.emit('aaa', {1:1}, function(data) {
+			// 	console.log(data);
+			// });
+
+			//대기방 가져오기
+
+			//플레이방 가져오기
+		}
+
+        // socket.on('create_room', function (data) {
+        //     // ¹®¼­ °´Ã¼¸¦ Ãß°¡ÇÕ´Ï´Ù.
+        //     $('<button></button>').attr({
+        //         'data-room': data
+        //     }).text('Room Number: ' + data).appendTo('#container');
+        // });
+
+		function pannelShow() {
+			$('#pannel').show();
+			room.wait.get();
+			room.play.get();
+		}
+
+        $(document).on('#pannel_open_room > button', 'click', function () {
+            // º¯¼ö¸¦ ¼±¾ðÇÕ´Ï´Ù.
+            var room = $(this).attr('data-room');
+
+            // ÆäÀÌÁö¸¦ ÀÌµ¿ÇÕ´Ï´Ù.
+            location = '/game/' + room;
+        });
+
+	});
+</script>
+<style>
+	#login {}
+	#pannel {display: none;}
+</style>
+</head>
+<body>
+<h1>Wait room</h1>
+<div>members</div>
+<div id="login">
+	<h2>Create Your Name</h2>
+	<input type="text" id="name" />
+	<button type="button" id="btnName">OK</button>
+</div>
+<button>Start</button>
+</body>
+</html>
