@@ -6,7 +6,7 @@ var ejs = require('ejs');
 var fs = require('fs');
 var express = require('express');
 var socket = require('socket.io');
-//what!!!!!!!!!!!!!!!!!!!!!!!!!
+
 var app = express();
 app.use(app.router);
 app.use(express.static(__dirname + '/public'));
