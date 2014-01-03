@@ -99,7 +99,7 @@ app.get('/wait/:name', function (request, response) {
 });
 
 var server = http.createServer(app).listen(52273, function(){
-  console.log('run!!');
+  console.log('number match server run!!');
 });
 
 var io = socket.listen(server);

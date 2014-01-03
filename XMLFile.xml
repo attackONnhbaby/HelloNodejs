@@ -6,18 +6,18 @@
 <description>기상청 날씨 웹서비스</description>
 <language>ko</language>
 <generator>기상청</generator>
-<pubDate>2013년 12월 27일 (금)요일 06:00</pubDate>
+<pubDate>2014년 01월 03일 (금)요일 06:00</pubDate>
  <item>
 <author>기상청</author>
 <category>육상중기예보</category>
-<title>전국 육상 중기예보 - 2013년 12월 27일 (금)요일 06:00 발표</title>
+<title>전국 육상 중기예보 - 2014년 01월 03일 (금)요일 06:00 발표</title>
 <link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
 <guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
 <description>
 	<header>
 		<title>전국 육상중기예보</title>
-		<tm>201312270600</tm>
-		<wf><![CDATA[찬 대륙고기압과 기압골의 영향으로 29일에는 서울.경기도, 충청남도, 전라남북도와 제주도에 눈 또는 비가 오는 곳이 있겠습니다. 한편, 기압골의 영향으로 1월 1일 오후에는 서울.경기도와 강원도영서에서 한때 눈 또는 비가 조금 오는 곳이 있겠습니다. 그 밖의 날은 고기압 가장자리에 들어 가끔 구름많겠습니다.<br />기온은 29일까지는 평년(최저기온 : -12~4도, 최고기온 : 1~10도)보다 낮아 춥겠고, 30일 이후에는 평년과 비슷하거나 조금 높겠습니다.<br />강수량은 서울.경기도, 충청남도, 전라남북도와 제주도는 평년(강수량 : 0~2mm)과 비슷하겠으나, 그 밖의 지역은 평년보다 적겠습니다.]]></wf>
+		<tm>201401030600</tm>
+		<wf><![CDATA[5일은 동풍의 영향으로 강원도영동과 경상남북도동해안에 눈 또는 비가 오는 곳이 있겠습니다. 한편, 8일은 기압골의 영향으로 전국에 눈 또는 비가 오겠으며, 강원도영동은 9일까지 이어지겠습니다. 그 밖의 날은 고기압의 가장자리에 들어 가끔 구름많겠습니다.<br />기온은 평년(최저기온 : -12~4도, 최고기온 : 0~9도)보다 조금 높겠으나, 9~11일은 평년보다 낮아 춥겠습니다.<br />강수량은 평년(강수량 : 0~3mm)과 비슷하거나 조금 많겠습니다.]]></wf>
 	</header>
 	<body>
 				
@@ -28,60 +28,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>-7</tmn>
-					<tmx>1</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>6</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-08</tmEf>
 					<wf>구름많고 눈/비</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>-4</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
+					<tmn>-10</tmn>
+					<tmx>-2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -94,39 +94,39 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>-6</tmn>
-					<tmx>-1</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>낮음</reliability>
+					<tmx>4</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-08</tmEf>
 					<wf>구름많고 눈/비</wf>
-					<tmn>-3</tmn>
+					<tmn>-1</tmn>
 					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -134,20 +134,20 @@
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>-4</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
+					<tmn>-10</tmn>
+					<tmx>-2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -160,60 +160,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>-9</tmn>
-					<tmx>2</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>7</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-5</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmn>-3</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-08</tmEf>
 					<wf>구름많고 눈/비</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<tmn>-2</tmn>
 					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-10</tmn>
+					<tmx>0</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -226,60 +226,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>-14</tmn>
-					<tmx>0</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-7</tmn>
-					<tmx>4</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>5</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-10</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
+					<tmn>-8</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-08</tmEf>
 					<wf>구름많고 눈/비</wf>
-					<tmn>-9</tmn>
-					<tmx>1</tmx>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-10</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-13</tmn>
+					<tmx>-4</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-9</tmn>
-					<tmx>0</tmx>
+					<tmn>-14</tmn>
+					<tmx>-2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -294,60 +294,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-15</tmn>
-					<tmx>0</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>3</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-6</tmn>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-3</tmn>
 					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>-6</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>0</tmx>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>-2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>-1</tmx>
+					<tmn>-10</tmn>
+					<tmx>0</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -360,60 +360,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-12</tmn>
-					<tmx>1</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<tmn>-4</tmn>
 					<tmx>4</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-3</tmn>
 					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>-6</tmn>
-					<tmx>1</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>0</tmx>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>0</tmx>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -428,60 +428,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많고 눈</wf>
 					<tmn>-2</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
 					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<numEf>3</numEf>
+					<tmEf>2014-01-06</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -496,60 +496,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-8</tmn>
-					<tmx>3</tmx>
-					<reliability>낮음</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
 					<tmx>6</tmx>
-					<reliability>낮음</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
 					<tmn>-2</tmn>
-					<tmx>6</tmx>
+					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
-					<reliability>낮음</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -564,60 +564,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-5</tmn>
-					<tmx>2</tmx>
-					<reliability>높음</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
 					<tmn>-4</tmn>
 					<tmx>5</tmx>
-					<reliability>낮음</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
 					<tmn>-2</tmn>
-					<tmx>4</tmx>
+					<tmx>7</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>4</tmx>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -630,59 +630,59 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-5</tmn>
-					<tmx>1</tmx>
-					<reliability>높음</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
 					<tmn>-5</tmn>
-					<tmx>4</tmx>
-					<reliability>낮음</reliability>
+					<tmx>5</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>3</tmx>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>2</tmx>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-1</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
 					<tmx>1</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -696,59 +696,59 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-6</tmn>
-					<tmx>1</tmx>
-					<reliability>높음</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
 					<tmx>5</tmx>
-					<reliability>낮음</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-5</tmn>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
 					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
@@ -764,61 +764,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-5</tmn>
-					<tmx>3</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
 					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
 					<tmn>-2</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmx>5</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
 					<tmn>0</tmn>
-					<tmx>5</tmx>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
+					<tmEf>2014-01-09</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>5</tmx>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 
@@ -830,61 +830,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름조금</wf>
 					<tmn>-4</tmn>
-					<tmx>3</tmx>
+					<tmx>5</tmx>
 					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
+					<tmEf>2014-01-07</tmEf>
 					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
+					<tmn>-1</tmn>
 					<tmx>6</tmx>
 					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>1</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>0</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 
@@ -898,61 +898,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
+					<tmEf>2014-01-05</tmEf>
+					<wf>맑음</wf>
 					<tmn>-3</tmn>
-					<tmx>4</tmx>
+					<tmx>7</tmx>
 					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
 					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>1</tmn>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-3</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 
@@ -964,61 +964,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-2</tmn>
-					<tmx>4</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>6</tmx>
 					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
 					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>2</tmn>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 
@@ -1030,61 +1030,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈</wf>
-					<tmn>-4</tmn>
-					<tmx>5</tmx>
+					<tmEf>2014-01-05</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>8</tmx>
 					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>0</tmn>
+					<tmx>7</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
 					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>8</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 눈/비</wf>
+					<tmn>3</tmn>
+					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 
@@ -1098,60 +1098,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
+					<tmEf>2014-01-06</tmEf>
 					<wf>구름조금</wf>
 					<tmn>-3</tmn>
 					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
 					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmx>9</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름조금</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>3</tmn>
+					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
+					<tmEf>2014-01-09</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>7</tmx>
-					<reliability>보통</reliability>
+					<tmn>-5</tmn>
+					<tmx>0</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-3</tmn>
-					<tmx>6</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1164,60 +1164,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-8</tmn>
-					<tmx>2</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
+					<tmEf>2014-01-06</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmn>-6</tmn>
+					<tmx>6</tmx>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름조금</wf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
 					<tmn>-3</tmn>
-					<tmx>5</tmx>
+					<tmx>4</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
+					<tmEf>2014-01-09</tmEf>
 					<wf>구름많음</wf>
-					<tmn>-5</tmn>
-					<tmx>4</tmx>
-					<reliability>보통</reliability>
+					<tmn>-8</tmn>
+					<tmx>-3</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-6</tmn>
-					<tmx>4</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-12</tmn>
+					<tmx>-1</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1230,60 +1230,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-4</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
+					<tmEf>2014-01-06</tmEf>
 					<wf>구름조금</wf>
-					<tmn>-2</tmn>
+					<tmn>-3</tmn>
 					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
 					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<tmx>10</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>3</tmn>
+					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
+					<tmEf>2014-01-09</tmEf>
 					<wf>구름많음</wf>
-					<tmn>0</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-2</tmn>
-					<tmx>7</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1298,60 +1298,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
-					<tmx>6</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
+					<tmx>8</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>맑음</wf>
-					<tmn>-1</tmn>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>1</tmn>
 					<tmx>9</tmx>
-					<reliability>보통</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>0</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>10</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>4</tmn>
+					<tmx>8</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>2</tmn>
-					<tmx>10</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1364,60 +1364,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>맑음</wf>
-					<tmn>-3</tmn>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-1</tmn>
 					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
-					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>10</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>8</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>3</tmn>
+					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>-1</tmn>
-					<tmx>9</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1430,60 +1430,60 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>맑음</wf>
-					<tmn>-5</tmn>
-					<tmx>5</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>7</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>맑음</wf>
-					<tmn>-2</tmn>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름조금</wf>
+					<tmn>0</tmn>
 					<tmx>8</tmx>
-					<reliability>보통</reliability>
+					<reliability>높음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>맑음</wf>
-					<tmn>0</tmn>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
 					<tmx>9</tmx>
-					<reliability>보통</reliability>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름조금</wf>
-					<tmn>-1</tmn>
-					<tmx>8</tmx>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>3</tmn>
+					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
-					<wf>구름많음</wf>
-					<tmn>1</tmn>
-					<tmx>9</tmx>
+					<tmEf>2014-01-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>5</tmx>
 					<reliability>보통</reliability>
 				</data>
 
@@ -1498,61 +1498,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>3</tmn>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>9</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>10</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>9</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>5</tmn>
 					<tmx>7</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>5</tmn>
-					<tmx>9</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>7</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>7</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>6</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름많음</wf>
-					<tmn>6</tmn>
-					<tmx>10</tmx>
-					<reliability>낮음</reliability>
+					<tmn>4</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 
@@ -1564,61 +1564,61 @@
 				
 				<data>
 					<numEf>2</numEf>
-					<tmEf>2013-12-29</tmEf>
-					<wf>구름많고 눈/비</wf>
-					<tmn>3</tmn>
+					<tmEf>2014-01-05</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>11</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2014-01-06</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>12</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2014-01-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>11</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2014-01-08</tmEf>
+					<wf>구름많고 비/눈</wf>
+					<tmn>6</tmn>
 					<tmx>9</tmx>
 					<reliability>보통</reliability>
 				</data>
 
 				
 				<data>
-					<numEf>3</numEf>
-					<tmEf>2013-12-30</tmEf>
-					<wf>구름많음</wf>
-					<tmn>8</tmn>
-					<tmx>11</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>4</numEf>
-					<tmEf>2013-12-31</tmEf>
-					<wf>구름조금</wf>
-					<tmn>9</tmn>
-					<tmx>12</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
-					<numEf>5</numEf>
-					<tmEf>2014-01-01</tmEf>
-					<wf>구름많음</wf>
-					<tmn>8</tmn>
-					<tmx>13</tmx>
-					<reliability>보통</reliability>
-				</data>
-
-				
-				<data>
 					<numEf>6</numEf>
-					<tmEf>2014-01-02</tmEf>
-					<wf>구름조금</wf>
-					<tmn>6</tmn>
-					<tmx>12</tmx>
-					<reliability>보통</reliability>
+					<tmEf>2014-01-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
 				</data>
 
 				
 				<data>
 					<numEf>7</numEf>
-					<tmEf>2014-01-03</tmEf>
+					<tmEf>2014-01-10</tmEf>
 					<wf>구름많음</wf>
-					<tmn>7</tmn>
-					<tmx>12</tmx>
-					<reliability>낮음</reliability>
+					<tmn>4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
 				</data>
 
 
